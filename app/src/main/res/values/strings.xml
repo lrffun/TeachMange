@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">教师管理系统</string>
+    <string name="welcome">欢迎使用教师管理系统</string>
+    <string name="choice">|| 请选择您要使用的功能</string>
+    <string name="add">|| 请输入老师的全部信息并提交</string>
+    <string name="id">工号：</string>
+    <string name="name">姓名：</string>
+    <string name="age">年龄：</string>
+    <string name="title">职称：</string>
+    <string name="department">所在院系：</string>
+    <string name="curriculum">课程：</string>
+    <string name="telephone">联系电话：</string>
+    <string name="address">地址：</string>
+    <string name="submit">提交</string>
+    <string name="hintid">请输入教师的工号</string>
+    <string name="hint_name">请输入教师姓名</string>
+    <string name="hint_age">请输入教师的年龄</string>
+    <string name="hint_title">请输入教师的职称</string>
+    <string name="hint_department">请输入教师所属院系</string>
+    <string name="hint_curriculum">请输入常授课程</string>
+    <string name="hint_telephone">请输入教师的常用联系电话</string>
+    <string name="hint_address">请输入教师的常住地址</string>
+    <string name="update">|| 查询并修改教师信息</string>
+    <string name="select">|| 查询教师信息</string>
+    <string name="delete">|| 删除教师信息</string>
+    <string name="hint_input_select">输入完成按回车查询</string>
+</resources>
